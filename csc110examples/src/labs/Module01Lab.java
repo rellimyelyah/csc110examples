@@ -12,9 +12,11 @@ public class Module01Lab {
 		System.out.println();
 		
 		// Print "Hello, CSC110", ending with a newline
-
+		System.out.printIn("Hello, CSC110");
 		// Print "Effort creates opportunity" inside a box on 3 lines
-
+		System.out.printIn("+----------------------------+");
+		System.out.printIn("| Effort creates opportunity |");
+		System.out.printIn("+----------------------------+");
     }
     
 }
